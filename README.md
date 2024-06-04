@@ -6,7 +6,7 @@ You can view and run the project documentation in this Google Colab notebook: [O
 
 ## Tableau Dashboard
 
-Dashboard uploaded on Tableau Public: [Open in Tableau Public]((https://public.tableau.com/app/profile/jerry.pena.alfaro/viz/CanadaFoodInsecurity/HomePage))
+Dashboard uploaded on Tableau Public: [Open in Tableau Public](https://public.tableau.com/app/profile/jerry.pena.alfaro/viz/CanadaFoodInsecurity/HomePage)
 
 ## References
 
